@@ -14,7 +14,7 @@ Pluvia is a lightweight unofficial Steam client for Android with the ability to 
 ![ezgif-1-e771b00daa](https://github.com/user-attachments/assets/e57b9f41-0222-4500-8a0d-4dd00f999a48)
 
 > NOTE: This project is **NOT** affilated, endorsed, sponsored, or developed by __Valve Corporation__. Do not report any bugs found in this project to them. 
-> Steam is a trademark of the Valve Corporation
+> Steam is a trademark of the Valve Corporation.
 
 ## Features
 
